@@ -1,0 +1,9 @@
+Built USING:-
+Hardwares; MSP432 launchapd from Texas Instruments
+           CC3100 WiFi Booster Module from Texas Instruments
+           MQ135 Gas Sensor for AQI.
+           3 Jumper Wires.
+           
+Softwares; Energia IDE
+           MIT App Inventor
+           Ubidots as Upload Server.
